@@ -1,11 +1,17 @@
+---
+sidebar_position: 1
+slug: /
+---
+
 # Balena Security
 
-_Mission Statement:_ Identify Balena's security scope to reliably assess, anticipate, and treat its risks with auditable documentation and artifacts.
+### Mission Statement
+
+Identify Balena's security scope to reliably assess, anticipate, and treat its risks with auditable documentation and artifacts.
 
 ##### Quick links
 
-- Incident Management: [Security Incident Reports](https://github.com/balenaltd/security-reports)
-- Topics: [Security Brainstorm Topics](https://jel.ly.fish/view-user-created-view-2f4e6caf-c526-4409-90bd-8a46da452703-security-project)
+- Topics: [Security Brainstorm Topics](https://jel.ly.fish/view-user-created-view-6bcdc14f-3435-4601-a74a-fb5f835270b5-security-brainstorm-topics)
 - Current Saga: [Security 1.0](https://jel.ly.fish/saga-security-1-0-a6ed6c9)
 - Backlog: [Security Next](https://jel.ly.fish/saga-security-next-32ef32c)
 
@@ -31,34 +37,8 @@ This roadmap contains Improvements we think should be worked on eventually but n
 
 ## Jellyfish Idioms
 
-Please reference our [CONTRIBUTING.md](contributing.md) to understand how Jellyfish works. These rules are not specific to our team but we want to standardize how we use the platform.
+Please reference the [Contributing Page](/contributing) to understand how Jellyfish works. These rules are not specific to our team but we want to standardize how we use the platform.
 
 ## Commitment Adjustment Policy
 
 WIP ...how do we decided to add something to our roadmap after deciding on the current roster ?
-
-## Website Development
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-
-#### Installation
-
-```
-$ npm install
-```
-
-#### Local Development
-
-```
-$ npm start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-#### Build
-
-```
-$ npm run build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
