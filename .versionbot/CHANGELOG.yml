@@ -1,0 +1,31 @@
+- commits:
+    - subject: Remove git lfs since github pages does not support it
+      hash: 45f0be836b659441e25e6611ed645661ec89702a
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Micah Halter <micah@balena.io>
+        signed-off-by: Micah Halter <micah@balena.io>
+      author: Micah Halter
+      nested: []
+  version: 0.1.1
+  title: ""
+  date: 2022-09-02T15:41:23.323Z
+- version: 0.1.0
+  date: 2022-09-02T15:18:51Z
+  commits:
+    - hash: 9fbac4b02c3a2564cccf904fe5f4df44e8691617
+      author: Micah Halter
+      footers:
+        change-type: patch
+        signed-off-by: Micah Halter <micah@balena.io>
+      subject: Fix base url until custom domain is configured
+      body: null
+    - hash: faf899fd44cde1ee652b901da64a610a8376cc9f
+      author: Micah Halter
+      footers:
+        change-type: minor
+        signed-off-by: Micah Halter <micah@balena.io>
+      subject: Initial security handbook website
+      body: null
