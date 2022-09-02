@@ -8,8 +8,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Balena Security Handbook",
   tagline: "Dinosaurs are cool",
-  url: "https://security.balena.io",
-  baseUrl: "/",
+  // TODO: use the custom domain as the base url once we get the DNS set up
+  // url: "https://security.balena.io",
+  // baseUrl: "/",
+  url: "https://balenaltd.github.io",
+  baseUrl: "/security/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
