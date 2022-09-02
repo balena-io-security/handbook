@@ -35,13 +35,13 @@ const config = {
           routeBasePath: "/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/balena-io/security/edit/main/",
+          editUrl: "https://github.com/balenaltd/security/edit/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/balena-io/security/edit/main/",
+          editUrl: "https://github.com/balenaltd/security/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -62,7 +62,7 @@ const config = {
         items: [
           // { to: "/blog", label: "Blog", position: "left" }, // TODO: Uncomment when the first blog post is made
           {
-            href: "https://github.com/balena-io/security",
+            href: "https://github.com/balenaltd/security",
             position: "right",
           },
         ],
@@ -92,7 +92,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/balena-io/security",
+                href: "https://github.com/balenaltd/security",
               },
             ],
           },
