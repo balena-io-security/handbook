@@ -1,4 +1,18 @@
 - commits:
+    - subject: Add employee security guidelines
+      hash: 268de521643c1895eede85ba2d1f4fb99548819d
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Micah Halter <micah@balena.io>
+        signed-off-by: Micah Halter <micah@balena.io>
+      author: Micah Halter
+      nested: []
+  version: 0.2.0
+  title: ""
+  date: 2022-09-02T17:39:02.694Z
+- commits:
     - subject: Move to new security.balena.io domain
       hash: dedf8aadb01a72b56cf53fd61fb60143d890dd08
       body: ""
