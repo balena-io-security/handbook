@@ -1,6 +1,6 @@
 {
   "name": "balena-io-security",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -44,5 +44,8 @@
   },
   "engines": {
     "node": ">=16.14"
+  },
+  "versionist": {
+    "publishedAt": "2022-09-02T15:19:59.632Z"
   }
 }
