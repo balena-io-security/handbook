@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update references to balena-io references to balenaltd
+      hash: a601410f129d1c0fa212d874508fb385beaf6ecd
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Micah Halter <micah@balena.io>
+        signed-off-by: Micah Halter <micah@balena.io>
+      author: Micah Halter
+      nested: []
+  version: 0.1.2
+  title: ""
+  date: 2022-09-02T15:57:24.110Z
+- commits:
     - subject: Remove git lfs since github pages does not support it
       hash: 45f0be836b659441e25e6611ed645661ec89702a
       body: ""
