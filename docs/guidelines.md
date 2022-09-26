@@ -59,4 +59,3 @@
   - Verify the author of extensions is a reputable entity. Some extensions that can be trusted:
     - Facebook Container (from Mozilla)
     - uBlock Origin
-    - papagal (self authored)
